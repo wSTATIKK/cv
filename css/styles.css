@@ -1,0 +1,197 @@
+body {
+  text-align: center;
+  margin: 0;
+  color:#40514E;
+
+}
+
+.middle-container {
+margin: 50px 50px;
+  font-family: 'helvetica';
+}
+
+
+
+.top-container {
+  background-color: #6DC9F7;
+  position: relative;
+  padding-top: 100px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px;
+}
+
+h6{
+
+color: #3D366A;
+
+}
+h3{
+  color:#3D366A;
+}
+
+h2 {
+    color:#3D366A;
+
+
+}
+
+.ee{
+color:#6DC9F7;
+}
+h1 {
+  display: block;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+  color: #3D366A;
+}
+
+
+
+.textito {
+  background-color: Grey;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 100px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 240px;
+}
+
+.mountain {
+  position: absolute;
+}
+
+.fotoperfil {
+
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+hr {
+border-style: dotted;
+border-width: 5px;
+border-top-width: 0;
+border-left-width: 0;
+border-right-width: 0;
+height: 1px;
+width: 5%;
+color: grey;
+
+}
+
+.console{
+
+  height:25%;
+  width:25%;
+  float:left;
+  margin-right:25px;
+  margin-bottom:10px;
+}
+.xd {
+  margin:0;
+  font-size: 20px;
+}
+
+.xdd{
+
+  margin:0;
+  font-size: 2.5rem;
+  font-weight: normal;
+
+}
+a{
+
+  color: #11999E;
+}
+
+.skill-row {
+
+width: 50%;
+margin:100px auto 100px auto;
+text-align: left;
+line-height: 200%;
+
+}
+
+.tipito {
+
+  width:25%;
+  height:25%;
+  float:right;
+  margin-right:25px;
+}
+
+.pmtitle
+{
+  text-align: left;
+}
+
+.intro{
+  width:35%;
+  margin:10px auto 30px auto;
+
+}
+
+.contact123{
+width: 40%;
+margin:5px auto 30px auto;
+}
+
+.myButton {
+
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow: -1px #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.divmar{
+  margin-bottom:50px;
+}
+
+.bottom-container {
+
+  background-color: #6DC9F7;
+  width: 100%;
+  padding: 50px 0 20px;
+}
+
+.footer-link{
+  color:#7EEEF1;
+  font-family: 'helvetica';
+  text-decoration: none;
+  margin:10px 20px;
+
+}
+
+a:hover{
+  color:#EAF6F6;
+}
+.rights{
+  font-family:'helvetica';
+  color: #ffffff;
+}
